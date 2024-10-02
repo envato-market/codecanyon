@@ -23,7 +23,7 @@
 	"pixabay_api_key": "0"
   },
   "custom_category": {
-    "status": false,
+    "status": true,
     "categories": [
       {
         "id": 10,
@@ -139,8 +139,8 @@
     },
     "global": {
       "interstitial_ad_interval": 3,
-      "native_ad_index_2_columns": 4,
-      "native_ad_index_3_columns": 6,
+      "native_ad_index_2_columns": 6,
+      "native_ad_index_3_columns": 12,
       "native_ad_style_exit_dialog": "medium",
       "native_ad_style_wallpaper_list": "large",
       "native_ad_style_wallpaper_details": "large"
