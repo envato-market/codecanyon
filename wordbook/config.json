@@ -94,8 +94,8 @@
     },
     "global": {
       "interstitial_ad_interval": 3,
-      "native_ad_index_2_columns": 6,
-      "native_ad_index_3_columns": 12,
+      "native_ad_index_2_columns": 4,
+      "native_ad_index_3_columns": 9,
       "native_ad_style_exit_dialog": "medium",
       "native_ad_style_post_list": "large",
       "native_ad_style_post_details": "large",
