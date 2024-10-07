@@ -13,91 +13,14 @@
    "settings": {
       "more_apps_url": "https://play.solodroid.co.id/store/apps/",
       "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/wordpress/privacy.html",
+      "category_image_base_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordbook/category/",
       "email_feedback_and_report": "report.solodroid@gmail.com",
       "category_column_count": 3,
       "show_post_count_in_category_list": false,
+      "enable_song_metadata": true,
+      "enable_image_album_art": true,
       "enable_rtl_mode": false,
       "enable_dark_mode_as_default_theme": false
-   },
-   "custom_category": {
-      "status": false,
-      "categories": [
-         {
-            "id": 11,
-            "name": "Business",
-            "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/news/category/business.png"
-         },
-         {
-            "id": 14,
-            "name": "Tourism",
-            "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/news/category/tourism.png"
-         },
-         {
-            "id": 7,
-            "name": "Politics",
-            "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/news/category/politics.png"
-         },
-         {
-            "id": 10,
-            "name": "Food",
-            "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/news/category/food.png"
-         },
-         {
-            "id": 6,
-            "name": "News",
-            "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/news/category/food.png"
-         },
-         {
-            "id": 15,
-            "name": "World",
-            "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/news/category/world.png"
-         },
-         {
-            "id": 4,
-            "name": "Sports",
-            "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/news/category/sports.png"
-         },
-         {
-            "id": 8,
-            "name": "Football",
-            "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/news/category/football.png"
-         },
-         {
-            "id": 5,
-            "name": "Technology",
-            "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/news/category/technology.png"
-         },
-         {
-            "id": 17,
-            "name": "Android",
-            "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/news/category/android.png"
-         },
-         {
-            "id": 3,
-            "name": "Health",
-            "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/news/category/health.png"
-         },
-         {
-            "id": 12,
-            "name": "Finance",
-            "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/news/category/finance.png"
-         },
-         {
-            "id": 16,
-            "name": "Entertainment",
-            "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/news/category/entertainment.png"
-         },
-         {
-            "id": 9,
-            "name": "Gadget",
-            "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/news/category/gadget.png"
-         },
-         {
-            "id": 13,
-            "name": "Travel",
-            "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/news/category/travel.png"
-         }
-      ]
    },
    "ads": {
       "status": true,
