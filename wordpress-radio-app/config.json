@@ -13,7 +13,7 @@
    "settings": {
       "more_apps_url": "https://play.solodroid.co.id/store/apps/",
       "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/wordpress/privacy.html",
-      "category_image_base_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordbook/category/",
+      "category_image_base_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/radio/category/",
       "email_feedback_and_report": "report.solodroid@gmail.com",
       "category_column_count": 3,
       "show_post_count_in_category_list": false,
