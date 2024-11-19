@@ -15,57 +15,18 @@
     "privacy_policy_url": "https://example.com/privacy-policy.html",
     "terms_conditions_url": "https://example.com/terms.html",
     "email_feedback_and_report": "yourmail@gmail.com",
-    "show_post_date": false,
     "show_post_count_in_category_list": true,
     "show_related_posts": true,
-    "enable_comment_feature": false,
-    "enable_view_on_site_menu": true,
     "enable_exit_dialog": true,
     "enable_rtl_mode": false,
     "enable_dark_mode_as_default_theme": false
   },
-  "custom_category": {
-    "status": false,
-    "categories": [
-      {
-        "id": 6,
-        "name": "Appetizers",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/recipes/appetizers.jpg"
-      },
-      {
-        "id": 5,
-        "name": "Breakfast",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/recipes/breakfast.jpg"
-      },
-      {
-        "id": 8,
-        "name": "Desserts",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/recipes/dessert.jpg"
-      },
-      {
-        "id": 10,
-        "name": "Drink",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/recipes/drink.jpg"
-      },
-      {
-        "id": 7,
-        "name": "Main Dish",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/recipes/main-dish.jpg"
-      },
-      {
-        "id": 3,
-        "name": "Side Dish",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/recipes/side-dish.jpg"
-      }
-    ]
-  },
   "ads": {
     "status": true,
     "main_ads": "admob",
-    "backup_ads": "none",
+    "backup_ads": "facebook",
     "ads_unit_id": {
       "admob": {
-        "publisher_id": "pub-3940256099942544",
         "app_open_id": "ca-app-pub-3940256099942544/9257395921",
         "banner_id": "ca-app-pub-3940256099942544/9214589741",
         "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
@@ -120,7 +81,6 @@
       "banner_category_details": true,
       "banner_search": true,
       "interstitial_post_list": true,
-      "interstitial_post_details": true,
       "native_exit_dialog": true,
       "native_post_list": true,
       "native_post_details": true,
