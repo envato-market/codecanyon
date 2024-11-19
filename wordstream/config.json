@@ -11,9 +11,9 @@
     "max_related_posts": 6
   },
   "settings": {
-    "more_apps_url": "https://play.google.com/store/apps/developer?id=SolodroidX",
-    "privacy_policy_url": "https://example.com/privacy-policy.html",
-    "terms_conditions_url": "https://example.com/terms.html",
+    "more_apps_url": "https://codecanyon.net/user/solodroid/portfolio",
+    "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/wordpress/privacy.html",
+    "category_image_base_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/radio/category/",
     "email_feedback_and_report": "yourmail@gmail.com",
     "show_post_count_in_category_list": true,
     "show_related_posts": true,
