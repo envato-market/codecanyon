@@ -4,8 +4,8 @@
     "redirect_url": ""
   },
   "wordpress": {
-    "site_url": "https://solodroidstream.wordpress.com/",
-    "rest_api_provider": "jetpack",
+    "site_url": "https://wp-stream.solodroid.net/",
+    "rest_api_provider": "default",
     "posts_per_page": 12,
     "categories_per_page": 24,
     "max_related_posts": 6
@@ -13,7 +13,7 @@
   "settings": {
     "more_apps_url": "https://codecanyon.net/user/solodroid/portfolio",
     "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/wordpress/privacy.html",
-    "category_image_base_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/radio/category/",
+    "category_image_base_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/stream/category/",
     "email_feedback_and_report": "yourmail@gmail.com",
     "show_post_count_in_category_list": true,
     "show_related_posts": true,
