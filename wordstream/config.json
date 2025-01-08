@@ -73,6 +73,24 @@
         "banner_id": "test-banner",
         "interstitial_id": "test-interstitial",
         "native_id": "test-native"
+      },
+      "pangle": {
+        "app_id": "8025677",
+        "app_open_id": "890000078",
+        "banner_id": "980099802",
+        "interstitial_id": "980088188",
+        "native_id": "980088216"
+      },
+      "huawei": {
+        "banner_id": "testw6vs28auh3",
+        "interstitial_id": "testb4znbuh3n2",
+        "native_id": "testu7m3hc4gvm"
+      },
+      "yandex": {
+        "app_open_id": "demo-appopenad-yandex",
+        "banner_id": "demo-banner-yandex",
+        "interstitial_id": "demo-interstitial-yandex",
+        "native_id": "demo-native-app-yandex"
       }
     },
     "placement": {
