@@ -23,7 +23,7 @@
   },
   "ads": {
     "status": true,
-    "main_ads": "pangle",
+    "main_ads": "admob",
     "backup_ads": "none",
     "ads_unit_id": {
       "admob": {
