@@ -13,7 +13,7 @@
   "settings": {
     "more_apps_url": "https://codecanyon.net/user/solodroid/portfolio",
     "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/wordpress/privacy.html",
-    "category_image_base_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/stream/category/",
+    "category_image_base_url": "https://raw.githubusercontent.com/solodroidev/wordstream/refs/heads/main/category/",
     "email_feedback_and_report": "yourmail@gmail.com",
     "show_post_count_in_category_list": true,
     "show_related_posts": true,
