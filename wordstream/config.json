@@ -13,7 +13,7 @@
   "settings": {
     "more_apps_url": "https://codecanyon.net/user/solodroid/portfolio",
     "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/wordpress/privacy.html",
-    "category_image_base_url": "https://raw.githubusercontent.com/solodroidev/wordstream/refs/heads/main/category/",
+    "category_image_base_url": "https://raw.githubusercontent.com/solodroidev/wordstream/main/category/",
     "email_feedback_and_report": "yourmail@gmail.com",
     "show_post_count_in_category_list": true,
     "show_related_posts": true,
@@ -39,9 +39,9 @@
         "native_id": "/6499/example/native"
       },
       "facebook": {
-        "banner_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-        "interstitial_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-        "native_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224"
+        "banner_id": "YOUR_PLACEMENT_ID",
+        "interstitial_id": "YOUR_PLACEMENT_ID",
+        "native_id": "YOUR_PLACEMENT_ID"
       },
       "applovin_max": {
         "app_open_id": "0",
@@ -99,7 +99,7 @@
       "banner_category_details": true,
       "banner_search": true,
       "interstitial_post_list": true,
-      "native_exit_dialog": true,
+      "native_exit_dialog": false,
       "native_post_list": true,
       "native_post_details": true,
       "app_open_ad_on_start": true,
