@@ -64,27 +64,27 @@
   "labels": [
     {
       "term": "Entertainment",
-      "image": "https://i.ibb.co/VVG4r5L/ic-entertainment.png"
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/stream/category/entertainment.png"
     },
     {
       "term": "National",
-      "image": "https://i.ibb.co/wgqvDWn/ic-nation.png"
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/stream/category/national.png"
     },
     {
       "term": "News",
-      "image": "https://i.ibb.co/g4qbnJ7/ic-news.png"
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/stream/category/news.png"
     },
     {
       "term": "Region",
-      "image": "https://i.ibb.co/yVFcF75/ic-region.png"
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/stream/category/region.png"
     },
     {
       "term": "Religion",
-      "image": "https://i.ibb.co/sRTgm9P/ic-religion.png"
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/stream/category/religion.png"
     },
     {
       "term": "World",
-      "image": "https://i.ibb.co/4Zj1GT4/ic-world.png"
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/stream/category/world.png"
     }
   ]
 }
