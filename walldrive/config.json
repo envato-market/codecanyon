@@ -90,6 +90,7 @@
       "native_ad_index_2_columns": 4,
       "native_ad_index_3_columns": 6,
       "native_ad_style_exit_dialog": "medium",
+      "native_ad_style_drawer_menu": "medium",
       "native_ad_style_wallpaper_list": "large",
       "native_ad_style_wallpaper_details": "large"
     }
