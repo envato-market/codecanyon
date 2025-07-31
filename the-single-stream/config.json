@@ -5,11 +5,8 @@
       "radio_genre": "RRI PRO 3",
       "radio_url": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
       "radio_image_url": "https://radio-online.id/assets/image/radio/180/rri_pro_3.png",
-      "background_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-background.gif",
-      "blur_radio_background": "false",
       "song_metadata": "true",
-      "image_album_art": "false",
-      "image_album_art_dynamic_background": "true",
+      "image_album_art": "true",
       "auto_play": "false"
     }
   ],
@@ -19,7 +16,7 @@
       "channel_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "channel_thumbnail": "https://i.ytimg.com/vi/bb26zGszBhM/hq720.jpg",
       "channel_description": "<p>A channel owned by Radio Republik Indonesia that presents various kinds of radio broadcasts both on air and off air, studio and outside studio events containing music broadcasts, talk shows and others.</p><p>RRI NET is not a traditional TV station, but a visual radio channel that enriches public radio with live video, modernizing RRI’s output and making it more engaging for contemporary audiences via satellite and digital platforms.</p><p>RRI NET currently broadcasts visual versions of selected programs on five of RRI's main radio stations (RRI Programa 1, RRI Programa 2, RRI Programa 3, RRI Programa 4, and a relay of Voice of Indonesia, with programs from RRI Programa 1, 2, and 4 originating from stations in Jakarta. However, RRI Programa 3's news programs account for the largest portion of the channel's total broadcast hours.</p>",
-      "channel_vast_ads_tag_url": "https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/single_ad_samples&sz=640x480&cust_params=sample_ct%3Dlinear&ciu_szs=300x250%2C728x90&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator="
+      "channel_vast_ads_tag_url": "https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/single_ad_samples&sz=640x480&cust_params=sample_ct%3Dlinear&ciu_szs=300x250%2C728x90&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&correlator="
     }
   ],
   "webview": [
@@ -31,11 +28,11 @@
   "settings": [
     {
       "app_status": "1",
-      "privacy_policy_url": "https://sites.google.com/view/your-single-radio",
+      "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
       "more_apps_url": "https://codecanyon.net/category/mobile/android?sort=sales&term=solodroid#content",
       "redirect_url": "",
       "show_social_menu_on_radio_page": "true",
-      "show_social_menu_on_video_page": "false"
+      "show_social_menu_on_video_page": "true"
     }
   ],
   "ads": [
@@ -74,22 +71,22 @@
   "socials": [
     {
       "social_name": "Website",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_web.png",
       "social_url": "https://solodroid.net?target=internal"
     },
     {
       "social_name": "Facebook",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/facebook.png",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_facebook.png",
       "social_url": "https://facebook.com/solodroid.net?target=custom-tabs"
     },
     {
       "social_name": "Twitter",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/twitter.png",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_twitter.png",
       "social_url": "https://twitter.com/solodroiddev?target=custom-tabs"
     },
     {
       "social_name": "Instagram",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/instagram.png",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_instagram.png",
       "social_url": "https://instagram.com/solodroid.dev?target=custom-tabs"
     }
   ]
