@@ -159,13 +159,6 @@
             "app_key": "85460dcd",
             "banner_id": "DefaultBanner",
             "interstitial_id": "DefaultInterstitial"
-         },
-         "wortise": {
-            "app_id": "test-app-id",
-            "app_open_id": "test-app-open",
-            "banner_id": "test-banner",
-            "interstitial_id": "test-interstitial",
-            "native_id": "test-native"
          }
       },
       "placement": {
@@ -189,3 +182,4 @@
       }
    }
 }
+
