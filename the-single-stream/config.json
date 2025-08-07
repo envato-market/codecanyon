@@ -4,9 +4,12 @@
       "radio_name": "RRI Radio Streaming",
       "radio_genre": "RRI PRO 3",
       "radio_url": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
-      "radio_image_url": "https://radio-online.id/assets/image/radio/180/rri_pro_3.png",
+      "radio_image_url": "https://raw.githubusercontent.com/envato-market/codecanyon/solodroid/the-single-stream/radio-image.jpg",
+      "radio_background_url": "https://raw.githubusercontent.com/envato-market/codecanyon/solodroid/the-single-stream/radio-background.jpg",
+      "blur_radio_background": "true",
       "song_metadata": "true",
       "image_album_art": "true",
+      "image_album_art_dynamic_background": "true",
       "auto_play": "false"
     }
   ],
@@ -91,3 +94,4 @@
     }
   ]
 }
+
