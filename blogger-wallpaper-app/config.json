@@ -48,12 +48,6 @@
     "ironsource_banner_id": "DefaultBanner",
     "ironsource_interstitial_id": "DefaultInterstitial",
     "ironsource_rewarded_id": "DefaultRewardedVideo",
-    "wortise_app_id": "test-app-id",
-    "wortise_banner_id": "test-banner",
-    "wortise_interstitial_id": "test-interstitial",
-    "wortise_rewarded_id": "test-interstitial",
-    "wortise_native_id": "test-native",
-    "wortise_app_open_id": "test-app-open",
     "interstitial_ad_interval": 3,
     "native_ad_index_2": 4,
     "native_ad_index_3": 6,
@@ -122,4 +116,5 @@
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/wallpaper/category/asus.jpg"
     }
   ]
+
 }
