@@ -1,0 +1,112 @@
+{
+  "blog": {
+    "blogger_id": "7197822416471123523",
+    "api_key": "AIzaSyBW8Ba1LsRIk99doNZUgUrg8oCK9xGAKOw,AIzaSyCF7oxEzYlQbxh9uttR33VUjlfeHCn7uhk"
+  },
+  "app": {
+    "status": true,
+    "redirect_url": "",
+    "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
+    "more_apps_url": "https://codecanyon.net/user/solodroid/portfolio",
+    "featured_labels": "Nature,Sunset,City,Live Wallpaper,Flower,Animal",
+    "custom_label_list": false,
+    "display_wallpaper_name": true,
+    "center_crop_wallpaper": true
+  },
+  "ads": {
+    "ad_status": true,
+    "main_ads": "admob",
+    "backup_ads": "none",
+    "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
+    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+    "ad_manager_banner_unit_id": "/6499/example/banner",
+    "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+    "ad_manager_native_unit_id": "/6499/example/native",
+    "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
+    "fan_banner_unit_id": "YOUR_PLACEMENT_ID",
+    "fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
+    "fan_native_unit_id": "YOUR_PLACEMENT_ID",
+    "startapp_app_id": "0",
+    "unity_game_id": "4089993",
+    "unity_banner_placement_id": "banner",
+    "unity_interstitial_placement_id": "video",
+    "applovin_banner_ad_unit_id": "0",
+    "applovin_interstitial_ad_unit_id": "0",
+    "applovin_native_ad_manual_unit_id": "0",
+    "applovin_app_open_ad_unit_id": "0",
+    "applovin_banner_zone_id": "0",
+    "applovin_banner_mrec_zone_id": "0",
+    "applovin_interstitial_zone_id": "0",
+    "ironsource_app_key": "85460dcd",
+    "ironsource_banner_id": "DefaultBanner",
+    "ironsource_interstitial_id": "DefaultInterstitial",
+    "interstitial_ad_interval": 3,
+    "native_ad_index": 3,
+    "placement": {
+      "banner_home": true,
+      "banner_wallpaper_list": true,
+      "banner_wallpaper_details": true,
+      "banner_category_details": true,
+      "banner_search": true,
+      "interstitial_wallpaper_list": true,
+      "interstitial_wallpaper_details": true,
+      "interstitial_category_details": true,
+      "native_home": true,
+      "native_exit_dialog": true,
+      "app_open_ad_on_start": true,
+      "app_open_ad_on_resume": true
+    }
+  },
+  "labels": [
+    {
+      "term": "Nature",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/wallpaperx/category/nature.jpg"
+    },
+    {
+      "term": "Sunset",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/wallpaperx/category/sunset.jpg"
+    },
+    {
+      "term": "Animal",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/wallpaperx/category/animal.jpg"
+    },
+    {
+      "term": "Forest",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/wallpaperx/category/forest.jpg"
+    },
+    {
+      "term": "City",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/wallpaperx/category/city.jpg"
+    },
+    {
+      "term": "Flower",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/wallpaperx/category/flower.jpg"
+    },
+    {
+      "term": "Beach",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/wallpaperx/category/beach.jpg"
+    },
+    {
+      "term": "House",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/wallpaperx/category/house.jpg"
+    },
+    {
+      "term": "Space",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/wallpaperx/category/space.jpg"
+    },
+    {
+      "term": "Mountain",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/wallpaperx/category/mountain.jpg"
+    },
+    {
+      "term": "Road",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/wallpaperx/category/road.jpg"
+    },
+    {
+      "term": "Live",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/wallpaperx/category/live.gif"
+    }
+  ]
+}
