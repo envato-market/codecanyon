@@ -9,7 +9,7 @@
     "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
     "more_apps_url": "https://codecanyon.net/user/solodroid/portfolio",
     "featured_labels": "Nature,Sunset,City,Live Wallpaper,Flower,Animal",
-    "custom_label_list": false,
+    "custom_label_list": true,
     "display_wallpaper_name": true,
     "center_crop_wallpaper": true
   },
@@ -109,4 +109,5 @@
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/wallpaperx/category/live.gif"
     }
   ]
+
 }
