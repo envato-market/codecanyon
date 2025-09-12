@@ -8,7 +8,7 @@
     "show_book_detail_view": true,
     "show_related_book": true,
     "allow_save_book_in_storage": true,
-    "swipe_horizontal_reading_book": true,
+    "swipe_horizontal_reading_book": false,
     "show_scroll_handle_reading_book": true,
     "custom_label_list": true
   },
@@ -87,4 +87,5 @@
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordbook/category/Biographies%20%26%20memoirs.png"
     }
   ]
+
 }
