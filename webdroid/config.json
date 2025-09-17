@@ -9,7 +9,7 @@
     "zoom_controls": false,
     "user_agent": "",
     "privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
-    "more_apps_url": "https://play.solodroid.co.id/store/apps/",
+    "more_apps_url": "https://codecanyon.net/user/solodroid/portfolio",
     "redirect_url": ""
   },
   "intro": {
@@ -82,7 +82,6 @@
     "ad_status": true,
     "main_ads": "admob",
     "backup_ads": "none",
-    "admob_publisher_id": "pub-3940256099942544",
     "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
     "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
     "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
@@ -108,11 +107,6 @@
     "ironsource_app_key": "85460dcd",
     "ironsource_banner_placement_name": "DefaultBanner",
     "ironsource_interstitial_placement_name": "DefaultInterstitial",
-    "wortise_app_id": "test-app-id",
-    "wortise_banner_ad_unit_id": "test-banner",
-    "wortise_interstitial_ad_unit_id": "test-interstitial",
-    "wortise_native_ad_unit_id": "test-native",
-    "wortise_app_open_ad_unit_id": "test-app-open",
     "interstitial_ad_interval_on_drawer_menu": 3,
     "interstitial_ad_interval_on_web_page_link": 5,
     "native_ad_style_drawer_menu": "medium",
