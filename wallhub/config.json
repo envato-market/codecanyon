@@ -80,6 +80,7 @@
       "banner_favorite": true,
       "interstitial_wallpaper_list": true,
       "rewarded_wallpaper_details": true,
+      "native_drawer_menu": true,
       "native_wallpaper_list": true,
       "native_exit_dialog": true,
       "app_open_ad_on_start": true,
