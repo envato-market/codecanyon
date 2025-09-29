@@ -18,7 +18,7 @@
     "email_feedback_and_report": "report.solodroid@gmail.com",
     "show_book_count_in_category_list": true,
     "allow_save_book_in_storage": true,
-    "swipe_horizontal_reading_book": true,
+    "swipe_horizontal_reading_book": false,
     "show_scroll_handle_reading_book": true,
     "show_related_books": true,
     "enable_exit_dialog": true,
