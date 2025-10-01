@@ -12,7 +12,12 @@
                 "rewarded": true
             },
             {
-                "name": "Who's a pretty bird, Waterfalls",
+                "name": "Who's a pretty bird?",
+                "thumbnail": "",
+                "rewarded": false
+            },
+            {
+                "name": "Waterfalls",
                 "thumbnail": "",
                 "rewarded": false
             },
