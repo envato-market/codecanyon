@@ -29,7 +29,7 @@
             {
                 "name": "Weddings",
                 "thumbnail": "",
-                "rewarded": false
+                "rewarded": true
             },
             {
                 "name": "Knock knock",
@@ -153,3 +153,4 @@
         }
     }
 }
+
