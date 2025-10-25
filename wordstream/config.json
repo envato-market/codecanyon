@@ -67,13 +67,6 @@
         "banner_id": "DefaultBanner",
         "interstitial_id": "DefaultInterstitial"
       },
-      "wortise": {
-        "app_id": "test-app-id",
-        "app_open_id": "test-app-open",
-        "banner_id": "test-banner",
-        "interstitial_id": "test-interstitial",
-        "native_id": "test-native"
-      },
       "pangle": {
         "app_id": "8025677",
         "app_open_id": "890000078",
