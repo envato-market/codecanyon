@@ -11,7 +11,7 @@
     "image_album_art": true,
     "blur_radio_background": false,
     "privacy_policy_url": "https://sites.google.com/view/blogger-radio-app-privacy",
-    "more_apps_url": "https://play.solodroid.co.id/store/apps/",
+    "more_apps_url": "https://codecanyon.net/user/solodroid/portfolio",
     "redirect_url": ""
   },
   "ads": {
@@ -43,11 +43,6 @@
     "ironsource_app_key": "85460dcd",
     "ironsource_banner_id": "DefaultBanner",
     "ironsource_interstitial_id": "DefaultInterstitial",
-    "wortise_app_id": "test-app-id",
-    "wortise_banner_id": "test-banner",
-    "wortise_interstitial_id": "test-interstitial",
-    "wortise_native_id": "test-native",
-    "wortise_app_open_id": "test-app-open",
     "interstitial_ad_interval": 3,
     "native_ad_interval": 8,
     "native_ad_index": 6
