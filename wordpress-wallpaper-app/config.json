@@ -68,7 +68,6 @@
     "backup_ads": "facebook",
     "ads_unit_id": {
       "admob": {
-        "publisher_id": "pub-3940256099942544",
         "app_open_id": "ca-app-pub-3940256099942544/9257395921",
         "banner_id": "ca-app-pub-3940256099942544/9214589741",
         "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
@@ -115,14 +114,6 @@
         "banner_id": "DefaultBanner",
         "interstitial_id": "DefaultInterstitial",
         "rewarded_id": "DefaultRewardedVideo"
-      },
-      "wortise": {
-        "app_id": "test-app-id",
-        "app_open_id": "test-app-open",
-        "banner_id": "test-banner",
-        "interstitial_id": "test-interstitial",
-        "rewarded_id": "test-rewarded",
-        "native_id": "test-native"
       }
     },
     "placement": {
