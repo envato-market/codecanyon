@@ -1,0 +1,87 @@
+{
+  "app": {
+    "status": true,
+    "redirect_url": ""
+  },
+  "webview": {
+    "web_url": "https://solodroidev.github.io/webdroidlite",
+    "user_agent": "",
+    "linear_progress_indicator": true,
+    "hardware_acceleration": false,
+    "auto_refresh": false,
+    "swipe_refresh_layout": true,
+    "cache_clear_on_start": false,
+    "cache_clear_on_exit": false,
+    "zoom_controls": true,
+    "open_link_in_external_browser": false,
+    "geolocation": true
+  },
+  "ads": {
+    "status": true,
+    "main_ads": "admob",
+    "backup_ads": "none",
+    "ads_unit_id": {
+      "admob": {
+        "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+        "banner_id": "ca-app-pub-3940256099942544/9214589741",
+        "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+        "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+        "native_id": "ca-app-pub-3940256099942544/2247696110"
+      },
+      "google_ad_manager": {
+        "app_open_id": "/6499/example/app-open",
+        "banner_id": "/6499/example/banner",
+        "interstitial_id": "/6499/example/interstitial",
+        "rewarded_id": "/6499/example/rewarded",
+        "native_id": "/6499/example/native"
+      },
+      "facebook": {
+        "banner_id": "YOUR_PLACEMENT_ID",
+        "interstitial_id": "YOUR_PLACEMENT_ID",
+        "rewarded_id": "YOUR_PLACEMENT_ID",
+        "native_id": "YOUR_PLACEMENT_ID"
+      },
+      "applovin_max": {
+        "app_open_id": "0",
+        "banner_id": "0",
+        "interstitial_id": "0",
+        "rewarded_id": "0",
+        "native_id": "0"
+      },
+      "applovin_discovery": {
+        "banner_zone_id": "0",
+        "mrec_zone_id": "0",
+        "rewarded_zone_id": "0",
+        "interstitial_zone_id": "0"
+      },
+      "startapp": {
+        "app_id": "0"
+      },
+      "unity": {
+        "game_id": "4089993",
+        "banner_id": "banner",
+        "interstitial_id": "video",
+        "rewarded_id": "rewardedVideo"
+      },
+      "ironsource": {
+        "app_key": "85460dcd",
+        "banner_id": "DefaultBanner",
+        "interstitial_id": "DefaultInterstitial",
+        "rewarded_id": "DefaultRewardedVideo"
+      }
+    },
+    "placement": {
+      "banner_ad": true,
+      "interstitial_ad": true,
+      "rewarded_ad": true,
+      "native_ad": true,
+      "app_open_ad_on_start": true,
+      "app_open_ad_on_resume": true
+    },
+    "global": {
+      "collapsible_banner_ad": true,
+      "interstitial_ad_interval": 3,
+      "native_ad_style": "medium"
+    }
+  }
+}
